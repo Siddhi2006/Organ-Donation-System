@@ -22,7 +22,7 @@ Java-based desktop application developed using Swing components to manage the pr
 ![register](images/register.png)
 ![login](images/login.png)
 ![home](images/home.png)
-![Add donor](images/Add donor.png)
+![Add](images/Add.png)
 ![search](images/search.png)
 ![contact](images/contact.png)
 
