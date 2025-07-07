@@ -16,6 +16,9 @@ Java-based desktop application developed using Swing components to manage the pr
 - **Database:** MySQL  
 - **IDE Used:** NetBeans
 
+# Screenshots
+
+![Instructions Page](images/image.png)
 # Prerequisites
 - Java JDK 8 or later
 - MySQL Server
