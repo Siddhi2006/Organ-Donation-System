@@ -26,6 +26,9 @@ Java-based desktop application developed using Swing components to manage the pr
 ![search](images/search.png)
 ![contact](images/contact.png)
 
+# Demo Video
+[![Watch the demo](https://www.youtube.com/watch?v=TAhUtqnGpJE)
+
 # Prerequisites
 - Java JDK 8 or later
 - MySQL Server
