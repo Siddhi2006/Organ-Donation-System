@@ -18,7 +18,7 @@ Java-based desktop application developed using Swing components to manage the pr
 
 # Screenshots
 
-![Instructions Page](images/instructions-page.png)
+![Instructions](images/instructions.png)
 ![register](images/register.png)
 ![login](images/login.png)
 ![home](images/home.png)
