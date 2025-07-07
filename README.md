@@ -27,7 +27,7 @@ Java-based desktop application developed using Swing components to manage the pr
 ![contact](images/contact.png)
 
 # Demo Video
-[![Watch the demo](https://www.youtube.com/watch?v=TAhUtqnGpJE)
+[![Watch the demo](https://img.youtube.com/vi/TAhUtqnGpJE/0.jpg)](https://www.youtube.com/watch?v=TAhUtqnGpJE)
 
 # Prerequisites
 - Java JDK 8 or later
