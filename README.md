@@ -22,7 +22,8 @@ Java-based desktop application developed using Swing components to manage the pr
 - IDE like NetBeans / IntelliJ
 - MySQL JDBC Driver
 
-# Author : Siddhi2006
+# Author 
+Siddhi2006
 
 # Contact
 If you have any queries or suggestions, feel free to connect:
