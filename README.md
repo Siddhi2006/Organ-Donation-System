@@ -19,7 +19,7 @@ Java-based desktop application developed using Swing components to manage the pr
 # Screenshots
 
 ![Instructions Page](images/instructions-page.png)
-
+![register](images/register.png)
 # Prerequisites
 - Java JDK 8 or later
 - MySQL Server
