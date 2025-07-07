@@ -20,6 +20,12 @@ Java-based desktop application developed using Swing components to manage the pr
 
 ![Instructions Page](images/instructions-page.png)
 ![register](images/register.png)
+![login](images/login.png)
+![home](images/home.png)
+![Add donor](images/Add donor.png)
+![search](images/search.png)
+![contact](images/contact.png)
+
 # Prerequisites
 - Java JDK 8 or later
 - MySQL Server
